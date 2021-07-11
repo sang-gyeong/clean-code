@@ -7,11 +7,11 @@
 <img src="https://media2.giphy.com/media/xT3i13kU0wh6JpyvzG/200.gif?cid=95b2794464fa8c77c00be2a0196ebaa965e9a4cee7b0d744&rid=200.gif&ct=g" alt="spongebob"/>
 
 <br/>
+1. 깨끗한 코드 (=가벼운 intro라 패스)
 
-[1. 깨끗한 코드](https://www.notion.so/1-8b1074530b394f6fbc39a070c2e7a0c4)  
 [2. 의미 있는 이름](https://www.notion.so/2-ad6d036fe64b4c1c8dad9cd62b94cdc5)  
 [3. 함수](https://www.notion.so/3-39983c204a044bbb8f2fd0f0b215706b)  
-4. 주석  
+[4. 주석](https://www.notion.so/4-fca8474bd7ed4446a1278f0221b80a2d)  
 5. 형식 맞추기  
 6. 객체와 자료 구조  
 7. 오류 처리  
@@ -19,4 +19,4 @@
 9. 단위 테스트  
 10. 클래스  
 11. 시스템  
-12. 창발성  
+12. 창발성
